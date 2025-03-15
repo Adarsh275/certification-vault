@@ -1,0 +1,16 @@
+[ 
+  { 
+    "filename": "python_workshop_2024.pdf", 
+    "category": "Participation", 
+    "issuer": "EdX", 
+    "date": "2024-03-12", 
+    "description": "Attended Python workshop" 
+  }, 
+  { 
+    "filename": "aws_cert_2023.pdf", 
+    "category": "Professional", 
+    "issuer": "AWS", 
+    "date": "2023-12-01", 
+    "description": "AWS Certified Solutions Architect" 
+  } 
+] 
